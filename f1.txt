@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x   4 joseviejo  staff   128B May  6 14:42 .
+drwxr-xr-x  16 joseviejo  staff   512B May  6 14:34 ..
+drwxr-xr-x   9 joseviejo  staff   288B May  6 14:34 .git
+-rw-r--r--   1 joseviejo  staff     0B May  6 14:42 f1.txt
